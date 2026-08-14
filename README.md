@@ -67,7 +67,7 @@ guest@alfarhans:~$ cat /etc/hosts
 [![linkedin](https://img.shields.io/badge/linkedin-al--farhan-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/al-farhan)
 [![portfolio](https://img.shields.io/badge/farhanshaikh.life-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://www.farhanshaikh.life/)
 [![github](https://img.shields.io/badge/github-alfarhans-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/alfarhans)
-[![x](https://img.shields.io/badge/x-%40farhan__dev17-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/farhansklife)
+[![x](https://img.shields.io/badge/x-%40farhansklife-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/farhansklife)
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=alfarhans&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=chartreuse-dark&bg_color=0D1117&border_color=39FF14&ring_color=39FF14&icon_color=39FF14&text_color=C9D1D9&title_color=39FF14" alt="GitHub stats" />
