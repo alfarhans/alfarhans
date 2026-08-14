@@ -70,8 +70,8 @@ guest@alfarhans:~$ cat /etc/hosts
 [![x](https://img.shields.io/badge/x-%40farhansklife-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/farhansklife)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alfarhans&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=chartreuse-dark&bg_color=0D1117&border_color=39FF14&ring_color=39FF14&icon_color=39FF14&text_color=C9D1D9&title_color=39FF14" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarhans&layout=compact&langs_count=6&hide_title=true&theme=chartreuse-dark&bg_color=0D1117&border_color=39FF14&text_color=C9D1D9&title_color=39FF14" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=alfarhans&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=39FF14&amp;ring_color=39FF14&amp;icon_color=39FF14&amp;text_color=C9D1D9&amp;title_color=39FF14" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alfarhans&amp;layout=compact&amp;langs_count=6&amp;hide_title=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=39FF14&amp;text_color=C9D1D9&amp;title_color=39FF14" alt="Top languages" />
 </p>
 
 <p align="center">
