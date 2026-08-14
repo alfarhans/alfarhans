@@ -38,7 +38,7 @@ stack
 |-- lang      JavaScript, TypeScript, C++
 |-- web       React.js, Next.js, Tailwind, React Query
 |-- mobile    React Native, Expo
-`-- backend   Node.js, Express.js, Prisma, MongoDB
+`-- backend   Node.js, Express.js, Drizzle ORM, Prisma ORM, Postgresql MongoDB
 
 guest@alfarhans:~$ ls -1 ~/projects
 ai-chat-app/         chatgpt-style conversational ui
